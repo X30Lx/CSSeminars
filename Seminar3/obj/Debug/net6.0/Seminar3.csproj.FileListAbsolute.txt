@@ -1,0 +1,15 @@
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\bin\Debug\net6.0\Seminar3.exe
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\bin\Debug\net6.0\Seminar3.deps.json
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\bin\Debug\net6.0\Seminar3.runtimeconfig.json
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\bin\Debug\net6.0\Seminar3.dll
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\bin\Debug\net6.0\Seminar3.pdb
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\Seminar3.csproj.AssemblyReference.cache
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\Seminar3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\Seminar3.AssemblyInfoInputs.cache
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\Seminar3.AssemblyInfo.cs
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\Seminar3.csproj.CoreCompileInputs.cache
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\Seminar3.dll
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\refint\Seminar3.dll
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\Seminar3.pdb
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\Seminar3.genruntimeconfig.cache
+G:\Testing\C#\Projects\SeminarsCS\Seminar3\obj\Debug\net6.0\ref\Seminar3.dll
